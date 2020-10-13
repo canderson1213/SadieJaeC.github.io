@@ -1,16 +1,5 @@
-body {
-backround-color:Snow;
-}
-
 h1{
-background-color:Black;
- opacity: 0.9;
-color:White;
+background-color:#000;
+color:#fff;
 font-size:3em;
-}
-
-h2{
-color:Black;
-font-style: oblique;
-font-size: 20px;
 }
