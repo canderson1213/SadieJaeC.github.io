@@ -1,14 +1,6 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Cmpt 104</title>
-</head>
-<body>
-</body>
-</html>
 h1{
-background-color:#000;
-color:#fff;
+background-color:Black;
+ opacity: 0.9;
+color:White;
 font-size:3em;
 }
