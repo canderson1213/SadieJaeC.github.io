@@ -3,3 +3,9 @@ background-color:#000;
 color:#fff;
 font-size:3em;
 }
+
+h2{
+  p.fancy{
+color:#666;
+font-style: oblique;
+}
