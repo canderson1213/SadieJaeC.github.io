@@ -3,8 +3,8 @@ body {
 }
 
 h1 {
+text-align: centre;
 background-color: black;
-
 opacity: 0.9;
 color: white;
 font-size: 60px;
