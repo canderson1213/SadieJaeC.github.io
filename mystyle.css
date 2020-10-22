@@ -7,13 +7,15 @@ background-color: black;
 text-align: centre;
 opacity: 0.9;
 color: white;
-font-size: 10px;
+font-size: 60px;
+text-indent: 60px;
 }
 
 h2{
   color:black;
   font-style: oblque;
   font-size;30px;
+  text-indent: 60px;
 }
 
 p {
