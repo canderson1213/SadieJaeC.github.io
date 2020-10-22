@@ -1,8 +1,9 @@
 body {
-  background-color: green;
+  background-color: Green;
 }
 
 h1 {
+  background-color: Gray;
   color: black;
   text-align: center;
 }
