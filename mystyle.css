@@ -5,11 +5,10 @@
 body {
   background-color: Orange;
 }
-p {
-  text-indent: 50px;
-}
-h1 {
 
+h1 {
+  text-align: center;
+}
 background-color: black;
 opacity: 0.9;
 color: white;
